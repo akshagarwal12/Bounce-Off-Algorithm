@@ -1,2 +1,2 @@
-# Bounce-Off-Algorithm
-An algorithm to make two sprites bounce off each other
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
